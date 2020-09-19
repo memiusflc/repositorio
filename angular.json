@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "flcproyecto"
+    }
+  },
+  "defaultProject": "flcproyecto",
+  "cli": {
+    "analytics": "7b9167a1-3167-43ca-ace5-1779f09eabc5"
+  }
 }
